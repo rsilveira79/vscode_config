@@ -1,14 +1,24 @@
 {
-    "window.zoomLevel": 2,
-    "editor.fontSize": 20,
-    "code-runner.ignoreSelection": true,
-    "code-runner.runInTerminal": true,
-
+    "workbench.colorTheme": "Dracula Soft",
+    "files.exclude": {
+        "**/.git": false
+    },
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "python.languageServer": "Microsoft",
     "python.linting.mypyEnabled": true,
     "python.linting.flake8Enabled": true,
     "python.testing.unittestEnabled": true,
-
+    "python.linting.flake8Args": [
+        "--ignore=E501" 
+    ],
+    "window.zoomLevel": 0,
     "[python]": {
-        "editor.formatOnSave": true
-    }
+
+
+        "gitlens.codeLens.symbolScopes": [
+            "!Module"
+        ]
+    },
+    "editor.fontLigatures": null
 }
