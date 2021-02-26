@@ -1,4 +1,4 @@
-# VSCode Plugin
+# VSCode Plugins
 
 - Bracket Pair Colorizer 2
 - Dracula Official
