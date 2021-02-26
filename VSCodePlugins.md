@@ -1,3 +1,5 @@
+# VSCode Plugin
+
 - Bracket Pair Colorizer 2
 - Dracula Official
 - Idented Block Highlighting
