@@ -5,3 +5,4 @@
 - Idented Block Highlighting
 - JSON Pretty Printer
 - GitLens — Git supercharged
+- reStructuredText
