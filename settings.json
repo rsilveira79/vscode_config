@@ -9,13 +9,9 @@
     "python.linting.mypyEnabled": true,
     "python.linting.flake8Enabled": true,
     "python.testing.unittestEnabled": true,
-    "python.linting.flake8Args": [
-        "--ignore=E501" 
-    ],
+    "python.linting.flake8Args": [ "--ignore=E501, F401"],
     "window.zoomLevel": 0,
     "[python]": {
-
-
         "gitlens.codeLens.symbolScopes": [
             "!Module"
         ]
