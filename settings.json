@@ -10,11 +10,17 @@
     "python.linting.flake8Enabled": true,
     "python.testing.unittestEnabled": true,
     "python.linting.flake8Args": [ "--ignore=E501, F401"],
+    "autoDocstring.docstringFormat": "sphinx",
+    "autoDocstring.customTemplatePath" : "/Users/rsilvei/.vscode/docstring_template.txt",
+    "autoDocstring.generateDocstringOnEnter": true,
+    "autoDocstring.includeExtendedSummary":true,
     "window.zoomLevel": 0,
     "[python]": {
+
+
+        "editor.formatOnSave": true,
         "gitlens.codeLens.symbolScopes": [
             "!Module"
         ]
-    },
-    "editor.fontLigatures": null
+    }
 }
