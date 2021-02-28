@@ -6,3 +6,4 @@
 - JSON Pretty Printer
 - GitLens — Git supercharged
 - reStructuredText
+- Python Docstring Generator
